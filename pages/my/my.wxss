@@ -1,0 +1,21 @@
+/* pages/my/my.wxss */
+#myLogin{
+  background-color: #f8bebe;
+  height: 400rpx;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: space-around; 
+}
+#myIcon{
+  height: 220rpx;
+  width: 220rpx;
+  border-radius: 50%
+}
+#nickName{
+  color:#290909;
+}
+#myFavorites{
+  padding: 20rpx;
+}
+
